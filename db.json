@@ -1,5 +1,17 @@
 {
-		name: "iben",
-		age: 32,
-		github: "https://github.com/ibenzhou"
+	"post" : [
+		{
+			"id" : 1,
+			"title": "hello"
+		},
+
+		{
+			"id" : 2,
+			"title" : "haha"
+		}
+	],
+
+	"profile" : {
+		"name" : "typicode"
+	}
 }
