@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Zhxi",
+            "url": "https://office.zhxi.co/apps/dashboard/#/",
+            "icon": "https://office.zhxi.co/apps/theming/favicon/dashboard?v=18"
+        },
+        {
+            "id": 2,
+            "name": "阿虚",
+            "url": "https://axutongxue.com/",
+            "icon": "./assets/images/axu.svg"
+        },
+        {
+            "id": 3,
+            "name": "TinkerCAD",
+            "url": "https://www.tinkercad.com/",
+            "icon": "https://editor.tinkercad.com/assets_22ju64i/js/tinkercad-frontend/assets/images/tinkercad-color.svg"
+        },
+        {
+            "id": 4,
+            "name": "阿里网盘",
+            "url": "https://www.aliyundrive.com/drive",
+            "icon": "./assets/images/aliyundrive.svg"
+        },
+        {
+            "id": 5,
+            "name": "Vmess",
+            "url": "https://tr2.freeair888.club/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/",
+            "icon": "./assets/images/vmess.svg"
+        },
+        {
+            "id": 6,
+            "name": "iconfont",
+            "url": "https://www.iconfont.cn/",
+            "icon": "https://img.alicdn.com/imgextra/i4/O1CN01Z5paLz1O0zuCC7osS_!!6000000001644-55-tps-83-82.svg"
+        },
+        {
+            "id": 7,
+            "name": "Youtube",
+            "url": "https://www.youtube.com/",
+            "icon": "./assets/images/youtube.svg",
+            "background": "#ff312e"
+        },
+        {
+            "id": 8,
+            "name": "BiliBili",
+            "url": "https://www.bilibili.com/",
+            "icon": "./assets/images/bilibili.svg",
+            "background": "#01affd"
+        }
+    ]
+}
