@@ -82,7 +82,7 @@
             "name": "Alvin999",
             "url": "https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7",
             "icon": "https://raw.githubusercontent.com/IbenZhou/ibenzhou.github.io/main/assets/images/github.svg",
-            "background": "#fff"
+            "background": "#000"
         },
         {
             "id": 13,
@@ -313,7 +313,7 @@
             "name": "Github",
             "url": "https://github.com/",
             "icon": "https://raw.githubusercontent.com/IbenZhou/ibenzhou.github.io/main/assets/images/github.svg",
-            "background": "#fff"
+            "background": "#000"
         }
     ]
 }
