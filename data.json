@@ -309,11 +309,25 @@
             "background": "#ddd"
         },
         {
-            "id": 12,
+            "id": 45,
             "name": "Github",
             "url": "https://github.com/",
             "icon": "https://raw.githubusercontent.com/IbenZhou/ibenzhou.github.io/main/assets/images/github.svg",
             "background": "#000"
+        },
+        {
+            "id": 46,
+            "name": "上学",
+            "url": "http://ywzsrx.cdzk.org/",
+            "icon": "https://raw.githubusercontent.com/IbenZhou/ibenzhou.github.io/main/assets/images/Future.svg",
+            "background": "#fff"
+        },
+        {
+            "id": 47,
+            "name": "小火箭",
+            "url": "https://tr2.freeair888.club/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/",
+            "icon": "https://raw.githubusercontent.com/IbenZhou/ibenzhou.github.io/main/assets/images/rocket.svg",
+            "background": "#fff"
         }
     ]
 }
